@@ -1,0 +1,5 @@
+# 公開に不要な元資料・ローカル用ファイル
+*.docx
+start.bat
+.DS_Store
+Thumbs.db
