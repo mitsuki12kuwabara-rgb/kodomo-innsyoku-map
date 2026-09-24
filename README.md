@@ -5,7 +5,7 @@
 ## 公開URL（GitHub Pages）
 
 デプロイ後に有効化されます：
-`https://mitsuki12kuwabara-rgb.github.io/kodomo-inshoku-map/`
+`https://mitsuki12kuwabara-rgb.github.io/kodomo-innsyoku-map/`
 
 ## 特徴
 
